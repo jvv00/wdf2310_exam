@@ -1,12 +1,3 @@
-// $(document).ready(function(){
-//     $(".depth1 > li").mouseover(function(){
-//         $(this).find(".depth2").stop().slideDown
-//     });
-//     $(".depth1 > li").mouseout(function(){
-//         $(this).find(".depth2").stop().slideUp
-//     });
-// })
-
 $(function(){
     let now = 0;
 
